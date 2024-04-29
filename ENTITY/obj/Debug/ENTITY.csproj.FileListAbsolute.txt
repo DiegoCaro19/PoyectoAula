@@ -1,0 +1,9 @@
+C:\PROYECTO\ENTITY\bin\Debug\ENTITY.exe.config
+C:\PROYECTO\ENTITY\bin\Debug\ENTITY.exe
+C:\PROYECTO\ENTITY\bin\Debug\ENTITY.pdb
+C:\PROYECTO\ENTITY\obj\Debug\ENTITY.csproj.AssemblyReference.cache
+C:\PROYECTO\ENTITY\obj\Debug\ENTITY.Properties.Resources.resources
+C:\PROYECTO\ENTITY\obj\Debug\ENTITY.csproj.GenerateResource.cache
+C:\PROYECTO\ENTITY\obj\Debug\ENTITY.csproj.CoreCompileInputs.cache
+C:\PROYECTO\ENTITY\obj\Debug\ENTITY.exe
+C:\PROYECTO\ENTITY\obj\Debug\ENTITY.pdb

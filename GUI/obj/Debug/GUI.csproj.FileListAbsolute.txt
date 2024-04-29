@@ -1,0 +1,39 @@
+C:\PROYECTO\GUI\bin\Debug\GUI.exe.config
+C:\PROYECTO\GUI\bin\Debug\GUI.exe
+C:\PROYECTO\GUI\bin\Debug\GUI.pdb
+C:\PROYECTO\GUI\bin\Debug\ENTITY.exe
+C:\PROYECTO\GUI\bin\Debug\BLL.pdb
+C:\PROYECTO\GUI\bin\Debug\ENTITY.pdb
+C:\PROYECTO\GUI\bin\Debug\ENTITY.exe.config
+C:\PROYECTO\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+C:\PROYECTO\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\PROYECTO\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\PROYECTO\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\PROYECTO\GUI\obj\Debug\GUI.csproj.Up2Date
+C:\PROYECTO\GUI\obj\Debug\GUI.exe
+C:\PROYECTO\GUI\obj\Debug\GUI.pdb
+C:\PROYECTO\GUI\obj\Debug\GUI.Registrarse.resources
+C:\PROYECTO\GUI\bin\Debug\BLL.exe
+C:\PROYECTO\GUI\bin\Debug\BLL.exe.config
+C:\PROYECTO\GUI\obj\Debug\GUI.Inicio.resources
+C:\PROYECTO\GUI\obj\Debug\GUI.MenuPrincipal.resources
+C:\Users\hewlett packard\OneDrive\Documentos\PROYECTO\GUI\bin\Debug\GUI.exe.config
+C:\Users\hewlett packard\OneDrive\Documentos\PROYECTO\GUI\bin\Debug\GUI.exe
+C:\Users\hewlett packard\OneDrive\Documentos\PROYECTO\GUI\bin\Debug\GUI.pdb
+C:\Users\hewlett packard\OneDrive\Documentos\PROYECTO\GUI\bin\Debug\BLL.exe
+C:\Users\hewlett packard\OneDrive\Documentos\PROYECTO\GUI\bin\Debug\ENTITY.exe
+C:\Users\hewlett packard\OneDrive\Documentos\PROYECTO\GUI\bin\Debug\ENTITY.pdb
+C:\Users\hewlett packard\OneDrive\Documentos\PROYECTO\GUI\bin\Debug\ENTITY.exe.config
+C:\Users\hewlett packard\OneDrive\Documentos\PROYECTO\GUI\bin\Debug\BLL.pdb
+C:\Users\hewlett packard\OneDrive\Documentos\PROYECTO\GUI\bin\Debug\BLL.exe.config
+C:\Users\hewlett packard\OneDrive\Documentos\PROYECTO\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+C:\Users\hewlett packard\OneDrive\Documentos\PROYECTO\GUI\obj\Debug\GUI.Inicio.resources
+C:\Users\hewlett packard\OneDrive\Documentos\PROYECTO\GUI\obj\Debug\GUI.MenuPrincipal.resources
+C:\Users\hewlett packard\OneDrive\Documentos\PROYECTO\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\hewlett packard\OneDrive\Documentos\PROYECTO\GUI\obj\Debug\GUI.Registrarse.resources
+C:\Users\hewlett packard\OneDrive\Documentos\PROYECTO\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\hewlett packard\OneDrive\Documentos\PROYECTO\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\hewlett packard\OneDrive\Documentos\PROYECTO\GUI\obj\Debug\GUI.csproj.Up2Date
+C:\Users\hewlett packard\OneDrive\Documentos\PROYECTO\GUI\obj\Debug\GUI.exe
+C:\Users\hewlett packard\OneDrive\Documentos\PROYECTO\GUI\obj\Debug\GUI.pdb
+C:\Users\hewlett packard\OneDrive\Documentos\PROYECTO\GUI\obj\Debug\GUI.Prueba.resources

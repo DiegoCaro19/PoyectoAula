@@ -1,0 +1,13 @@
+C:\PROYECTO\BLL\bin\Debug\BLL.dll
+C:\PROYECTO\BLL\bin\Debug\BLL.pdb
+C:\PROYECTO\BLL\bin\Debug\DALL.exe
+C:\PROYECTO\BLL\bin\Debug\ENTITY.exe
+C:\PROYECTO\BLL\bin\Debug\DALL.pdb
+C:\PROYECTO\BLL\bin\Debug\DALL.exe.config
+C:\PROYECTO\BLL\bin\Debug\ENTITY.pdb
+C:\PROYECTO\BLL\bin\Debug\ENTITY.exe.config
+C:\PROYECTO\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\PROYECTO\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\PROYECTO\BLL\obj\Debug\BLL.csproj.Up2Date
+C:\PROYECTO\BLL\obj\Debug\BLL.dll
+C:\PROYECTO\BLL\obj\Debug\BLL.pdb
