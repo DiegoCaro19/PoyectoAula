@@ -28,7 +28,6 @@ C:\Users\hewlett packard\OneDrive\Documentos\PROYECTO\GUI\bin\Debug\BLL.pdb
 C:\Users\hewlett packard\OneDrive\Documentos\PROYECTO\GUI\bin\Debug\BLL.exe.config
 C:\Users\hewlett packard\OneDrive\Documentos\PROYECTO\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
 C:\Users\hewlett packard\OneDrive\Documentos\PROYECTO\GUI\obj\Debug\GUI.Inicio.resources
-C:\Users\hewlett packard\OneDrive\Documentos\PROYECTO\GUI\obj\Debug\GUI.MenuPrincipal.resources
 C:\Users\hewlett packard\OneDrive\Documentos\PROYECTO\GUI\obj\Debug\GUI.Properties.Resources.resources
 C:\Users\hewlett packard\OneDrive\Documentos\PROYECTO\GUI\obj\Debug\GUI.Registrarse.resources
 C:\Users\hewlett packard\OneDrive\Documentos\PROYECTO\GUI\obj\Debug\GUI.csproj.GenerateResource.cache

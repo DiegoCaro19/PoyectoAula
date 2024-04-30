@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace GUI
 {
-    public partial class Registrarse : Form
+    public partial class fmrRegistrarse : Form
     {
-        public Registrarse()
+        public fmrRegistrarse()
         {
             InitializeComponent();
         }

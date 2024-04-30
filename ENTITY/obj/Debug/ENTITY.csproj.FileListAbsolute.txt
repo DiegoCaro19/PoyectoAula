@@ -7,3 +7,12 @@ C:\PROYECTO\ENTITY\obj\Debug\ENTITY.csproj.GenerateResource.cache
 C:\PROYECTO\ENTITY\obj\Debug\ENTITY.csproj.CoreCompileInputs.cache
 C:\PROYECTO\ENTITY\obj\Debug\ENTITY.exe
 C:\PROYECTO\ENTITY\obj\Debug\ENTITY.pdb
+C:\Users\hewlett packard\OneDrive\Documentos\PROYECTO\ENTITY\bin\Debug\ENTITY.exe.config
+C:\Users\hewlett packard\OneDrive\Documentos\PROYECTO\ENTITY\bin\Debug\ENTITY.exe
+C:\Users\hewlett packard\OneDrive\Documentos\PROYECTO\ENTITY\bin\Debug\ENTITY.pdb
+C:\Users\hewlett packard\OneDrive\Documentos\PROYECTO\ENTITY\obj\Debug\ENTITY.csproj.AssemblyReference.cache
+C:\Users\hewlett packard\OneDrive\Documentos\PROYECTO\ENTITY\obj\Debug\ENTITY.Properties.Resources.resources
+C:\Users\hewlett packard\OneDrive\Documentos\PROYECTO\ENTITY\obj\Debug\ENTITY.csproj.GenerateResource.cache
+C:\Users\hewlett packard\OneDrive\Documentos\PROYECTO\ENTITY\obj\Debug\ENTITY.csproj.CoreCompileInputs.cache
+C:\Users\hewlett packard\OneDrive\Documentos\PROYECTO\ENTITY\obj\Debug\ENTITY.exe
+C:\Users\hewlett packard\OneDrive\Documentos\PROYECTO\ENTITY\obj\Debug\ENTITY.pdb

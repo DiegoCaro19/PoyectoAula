@@ -1,16 +1,16 @@
 ﻿namespace GUI
 {
-    partial class Registrarse
+    partial class fmrInicio
     {
         /// <summary>
-        /// Required designer variable.
+        /// Variable del diseñador necesaria.
         /// </summary>
         private System.ComponentModel.IContainer components = null;
 
         /// <summary>
-        /// Clean up any resources being used.
+        /// Limpiar los recursos que se estén usando.
         /// </summary>
-        /// <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        /// <param name="disposing">true si los recursos administrados se deben desechar; false en caso contrario.</param>
         protected override void Dispose(bool disposing)
         {
             if (disposing && (components != null))
@@ -20,27 +20,25 @@
             base.Dispose(disposing);
         }
 
-        #region Windows Form Designer generated code
+        #region Código generado por el Diseñador de Windows Forms
 
         /// <summary>
-        /// Required method for Designer support - do not modify
-        /// the contents of this method with the code editor.
+        /// Método necesario para admitir el Diseñador. No se puede modificar
+        /// el contenido de este método con el editor de código.
         /// </summary>
         private void InitializeComponent()
         {
-            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Registrarse));
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(fmrInicio));
             this.panel1 = new System.Windows.Forms.Panel();
             this.panel2 = new System.Windows.Forms.Panel();
-            this.txtemail = new System.Windows.Forms.TextBox();
             this.label3 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
-            this.label1 = new System.Windows.Forms.Label();
+            this.Registrarse = new System.Windows.Forms.Label();
             this.btnIniciar = new System.Windows.Forms.Button();
-            this.txtContraseñaR = new System.Windows.Forms.TextBox();
+            this.txtContraseña = new System.Windows.Forms.TextBox();
             this.Hensys = new System.Windows.Forms.Label();
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
-            this.txtUsuarioR = new System.Windows.Forms.TextBox();
-            this.panel1.SuspendLayout();
+            this.txtUsuario = new System.Windows.Forms.TextBox();
             this.panel2.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.SuspendLayout();
@@ -48,90 +46,78 @@
             // panel1
             // 
             this.panel1.BackColor = System.Drawing.SystemColors.ActiveCaption;
-            this.panel1.Controls.Add(this.panel2);
-            this.panel1.Location = new System.Drawing.Point(1, 3);
+            this.panel1.Location = new System.Drawing.Point(12, 3);
             this.panel1.Name = "panel1";
-            this.panel1.Size = new System.Drawing.Size(626, 435);
-            this.panel1.TabIndex = 1;
+            this.panel1.Size = new System.Drawing.Size(675, 435);
+            this.panel1.TabIndex = 0;
             // 
             // panel2
             // 
             this.panel2.BackColor = System.Drawing.SystemColors.Info;
-            this.panel2.Controls.Add(this.txtemail);
             this.panel2.Controls.Add(this.label3);
             this.panel2.Controls.Add(this.label2);
-            this.panel2.Controls.Add(this.label1);
+            this.panel2.Controls.Add(this.Registrarse);
             this.panel2.Controls.Add(this.btnIniciar);
-            this.panel2.Controls.Add(this.txtContraseñaR);
+            this.panel2.Controls.Add(this.txtContraseña);
             this.panel2.Controls.Add(this.Hensys);
             this.panel2.Controls.Add(this.pictureBox1);
-            this.panel2.Controls.Add(this.txtUsuarioR);
-            this.panel2.Location = new System.Drawing.Point(127, 0);
+            this.panel2.Controls.Add(this.txtUsuario);
+            this.panel2.Location = new System.Drawing.Point(170, 3);
             this.panel2.Name = "panel2";
             this.panel2.Size = new System.Drawing.Size(364, 435);
-            this.panel2.TabIndex = 1;
-            // 
-            // txtemail
-            // 
-            this.txtemail.BackColor = System.Drawing.SystemColors.Menu;
-            this.txtemail.Location = new System.Drawing.Point(45, 241);
-            this.txtemail.Multiline = true;
-            this.txtemail.Name = "txtemail";
-            this.txtemail.Size = new System.Drawing.Size(277, 34);
-            this.txtemail.TabIndex = 8;
+            this.panel2.TabIndex = 0;
             // 
             // label3
             // 
             this.label3.AutoSize = true;
             this.label3.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label3.Location = new System.Drawing.Point(82, 380);
+            this.label3.Location = new System.Drawing.Point(83, 355);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(120, 19);
+            this.label3.Size = new System.Drawing.Size(124, 19);
             this.label3.TabIndex = 7;
-            this.label3.Text = "¿Ya tienes cuenta?";
+            this.label3.Text = "¿No tienes cuenta?";
             // 
             // label2
             // 
             this.label2.AutoSize = true;
             this.label2.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Underline, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label2.Location = new System.Drawing.Point(166, 408);
+            this.label2.Location = new System.Drawing.Point(171, 380);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(36, 19);
             this.label2.TabIndex = 6;
             this.label2.Text = "Salir";
             // 
-            // label1
+            // Registrarse
             // 
-            this.label1.AutoSize = true;
-            this.label1.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Underline, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label1.ForeColor = System.Drawing.SystemColors.HotTrack;
-            this.label1.Location = new System.Drawing.Point(208, 380);
-            this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(98, 19);
-            this.label1.TabIndex = 5;
-            this.label1.Text = "Iniciar Sección";
+            this.Registrarse.AutoSize = true;
+            this.Registrarse.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Underline, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.Registrarse.ForeColor = System.Drawing.SystemColors.Highlight;
+            this.Registrarse.Location = new System.Drawing.Point(213, 355);
+            this.Registrarse.Name = "Registrarse";
+            this.Registrarse.Size = new System.Drawing.Size(76, 19);
+            this.Registrarse.TabIndex = 5;
+            this.Registrarse.Text = "Registrarse";
             // 
             // btnIniciar
             // 
             this.btnIniciar.Font = new System.Drawing.Font("Times New Roman", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnIniciar.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.btnIniciar.Location = new System.Drawing.Point(111, 330);
+            this.btnIniciar.Location = new System.Drawing.Point(130, 302);
             this.btnIniciar.Name = "btnIniciar";
-            this.btnIniciar.Size = new System.Drawing.Size(153, 36);
+            this.btnIniciar.Size = new System.Drawing.Size(111, 36);
             this.btnIniciar.TabIndex = 4;
-            this.btnIniciar.Text = "Registrarse";
+            this.btnIniciar.Text = "Iniciar";
             this.btnIniciar.UseVisualStyleBackColor = true;
             // 
-            // txtContraseñaR
+            // txtContraseña
             // 
-            this.txtContraseñaR.BackColor = System.Drawing.SystemColors.Menu;
-            this.txtContraseñaR.Font = new System.Drawing.Font("Times New Roman", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.txtContraseñaR.Location = new System.Drawing.Point(45, 290);
-            this.txtContraseñaR.Multiline = true;
-            this.txtContraseñaR.Name = "txtContraseñaR";
-            this.txtContraseñaR.PasswordChar = '*';
-            this.txtContraseñaR.Size = new System.Drawing.Size(277, 34);
-            this.txtContraseñaR.TabIndex = 3;
+            this.txtContraseña.Font = new System.Drawing.Font("Times New Roman", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.txtContraseña.Location = new System.Drawing.Point(45, 260);
+            this.txtContraseña.Multiline = true;
+            this.txtContraseña.Name = "txtContraseña";
+            this.txtContraseña.PasswordChar = '*';
+            this.txtContraseña.Size = new System.Drawing.Size(277, 36);
+            this.txtContraseña.TabIndex = 3;
             // 
             // Hensys
             // 
@@ -155,25 +141,24 @@
             this.pictureBox1.TabIndex = 1;
             this.pictureBox1.TabStop = false;
             // 
-            // txtUsuarioR
+            // txtUsuario
             // 
-            this.txtUsuarioR.BackColor = System.Drawing.SystemColors.MenuBar;
-            this.txtUsuarioR.Font = new System.Drawing.Font("Times New Roman", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.txtUsuarioR.Location = new System.Drawing.Point(45, 184);
-            this.txtUsuarioR.Multiline = true;
-            this.txtUsuarioR.Name = "txtUsuarioR";
-            this.txtUsuarioR.Size = new System.Drawing.Size(277, 36);
-            this.txtUsuarioR.TabIndex = 0;
+            this.txtUsuario.Font = new System.Drawing.Font("Times New Roman", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.txtUsuario.Location = new System.Drawing.Point(45, 199);
+            this.txtUsuario.Multiline = true;
+            this.txtUsuario.Name = "txtUsuario";
+            this.txtUsuario.Size = new System.Drawing.Size(277, 36);
+            this.txtUsuario.TabIndex = 0;
             // 
-            // Registrarse
+            // Inicio
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(626, 439);
+            this.ClientSize = new System.Drawing.Size(699, 450);
+            this.Controls.Add(this.panel2);
             this.Controls.Add(this.panel1);
-            this.Name = "Registrarse";
-            this.Text = "Registrarse";
-            this.panel1.ResumeLayout(false);
+            this.Name = "Inicio";
+            this.Text = "Inicio";
             this.panel2.ResumeLayout(false);
             this.panel2.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
@@ -185,14 +170,14 @@
 
         private System.Windows.Forms.Panel panel1;
         private System.Windows.Forms.Panel panel2;
-        private System.Windows.Forms.Label label2;
-        private System.Windows.Forms.Label label1;
-        private System.Windows.Forms.Button btnIniciar;
-        private System.Windows.Forms.TextBox txtContraseñaR;
-        private System.Windows.Forms.Label Hensys;
+        private System.Windows.Forms.TextBox txtUsuario;
         private System.Windows.Forms.PictureBox pictureBox1;
-        private System.Windows.Forms.TextBox txtUsuarioR;
-        private System.Windows.Forms.TextBox txtemail;
+        private System.Windows.Forms.Button btnIniciar;
+        private System.Windows.Forms.TextBox txtContraseña;
+        private System.Windows.Forms.Label Hensys;
+        private System.Windows.Forms.Label label2;
+        private System.Windows.Forms.Label Registrarse;
         private System.Windows.Forms.Label label3;
     }
 }
+
